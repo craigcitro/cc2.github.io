@@ -1,5 +1,5 @@
 ---
-Title: Managing Bookmarks
+title: Managing Bookmarks
 date: 2014-12-22
 tags: [GTD]
 ---

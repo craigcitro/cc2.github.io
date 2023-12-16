@@ -1,5 +1,5 @@
 ---
-Title: LA food recs
+title: LA food recs
 Date: 2016-06-14
 tags: [food]
 ---

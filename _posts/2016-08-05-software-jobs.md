@@ -1,6 +1,6 @@
 ---
-Title: Get that job at Google! (mathematician edition)
-Date: 2016-08-05
+title: Get that job at Google! (mathematician edition)
+date: 2016-08-05
 tags: [google, math]
 ---
 

@@ -1,5 +1,5 @@
 ---
-Title: Orcas recs
+title: Orcas recs
 Date: 2021-07-02
 tags: [food]
 ---

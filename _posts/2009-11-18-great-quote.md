@@ -1,5 +1,5 @@
 ---
-Title: Great quote
+title: Great quote
 date: 2009-11-18
 tags: [silly, quotes]
 ---

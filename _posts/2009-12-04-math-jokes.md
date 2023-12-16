@@ -1,5 +1,5 @@
 ---
-Title: Math Jokes
+title: Math Jokes
 date: 2009-12-04
 tags: [math, silly]
 ---
