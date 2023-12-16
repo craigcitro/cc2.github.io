@@ -36,8 +36,6 @@ permalink: /posts/:year-:month-:day-:title.:output_ext
 
 header_pages:
   - books.md
-  - mottos.md
-  - notes/index.md
   - about.md
 
 # Exclude from processing.
