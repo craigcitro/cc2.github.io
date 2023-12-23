@@ -4,6 +4,9 @@ Date: 2021-07-02
 tags: [food]
 ---
 
+There's plenty to do on Orcas -- but me being me, I have to start with the
+important stuff: eating.
+
 ## Food
 
 ### Can't miss
